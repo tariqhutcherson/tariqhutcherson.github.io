@@ -1,0 +1,43 @@
+body {background-image: linear-gradient(rgb(247, 194, 232), purple, rgb(247, 194, 232));}
+
+.name {text-align: center; font-size: 80px; font-family: cursive;}
+
+h4 {text-align: center; font-family: cursive; margin-top: 1px;}
+
+.us {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 30px;
+    margin-bottom: 30px}
+
+.intro {text-align: center; 
+    font-family: cursive;
+    color: black;
+font-size: 20px;}
+
+.subtitle {text-align: center; font-family: cursive; margin-bottom: 0px; margin-top: 10px;}
+
+li {font-family: cursive;
+    margin-top: 30px;}
+
+.divvy {border-style: dotted; 
+    border-radius: 23px;
+    border-width: 4px; 
+    border-color: aliceblue;
+    margin-top: 70px;}
+
+.me {text-align: center; 
+    font-family: cursive; 
+    margin-bottom: 0px; 
+    margin-top: 80px;
+    font-size: 30px;}
+
+.time {text-align: center; font-family: cursive;}
+
+.we {width: 300px;display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 25px;
+    margin-top: 40px; }
